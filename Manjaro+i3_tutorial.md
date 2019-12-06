@@ -47,7 +47,7 @@
 将镜像源放置在这个文件下：
   ```vim
     Server = https://mirrors.tuna.tsinghua.edu.cn/archlinuxcn/$arch
-```
+  ```
 
 ## 3.3 更新系统
 `sudo pacman -Syyu`
@@ -151,3 +151,4 @@
 `sudo pacman -S ranger`
 
 # 10. polybar
+
